@@ -5,6 +5,8 @@ from time import sleep
 
 API_BASE_URL = "https://eobras.am.gov.br/obrasgov-map-backend/source/seinfra/contract/"
 
+# Sample JSON: https://github.com/ColinMaudry/amazonas-infra-contratos/blob/main/sample.json
+
 # We don't have a list of the valid ids. With manual trial and error, I assume
 # that there is no id above this number
 # The front end doesn't contain these ids
