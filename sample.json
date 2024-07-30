@@ -1,0 +1,83 @@
+{
+  "id": 6,
+  "mainImages": null,
+  "mapImages": null,
+  "hasAlbum": false,
+  "name": "CT-00031/2007-SEINF",
+  "description": "Execução das Ligações Viárias de Manaus - Av. das Torres - Trecho I",
+  "summaryDescription": "AVENIDA DAS TORRES",
+  "companies": [
+    "CONSTRUTORA MILLENIUM LTDA"
+  ],
+  "status": "Rescindido/Distratado",
+  "period": {
+    "initialDate": 1186617600000,
+    "finalDate": 1292803200000
+  },
+  "originalValue": 30819136.82,
+  "addedValue": 11515537.41,
+  "initialMeasuredValue": 17065839.19,
+  "readjustMeasuredValue": 0,
+  "vlApostila": 0,
+  "totalMeasuredValue": 17065839.19,
+  "totalPay": 17065839.19,
+  "contractTotalValue": 42334674.230000004,
+  "contractBalance": 25268835.040000003,
+  "paidAmount": 0,
+  "peContractedAmount": 100,
+  "peExecutedAmount": 40.3117,
+  "peExecutatoComReajustes": 40.3117,
+  "pePaidAmount": 0,
+  "construction": [
+    {
+      "id": 1,
+      "contractId": 6,
+      "extension": 0,
+      "name": "Ligações Viárias de Manaus - Av. das Torres",
+      "unit": "KM    ",
+      "typeWork": "Vias Municipais",
+      "concatTypeWorkExtension": " - 0,000 KM    ",
+      "publicAsset": "AVENIDA DAS TORRES",
+      "addresses": [
+        "Manaus"
+      ],
+      "coordinate": [
+        {
+          "nuLatitude": -3.0519429,
+          "nuLongitude": -59.9856891,
+          "cdCatetoria": null,
+          "lotes": null,
+          "uuid": null,
+          "categoryType": null,
+          "cdLote": 1
+        }
+      ],
+      "roads": [],
+      "deSituacaoObra": null,
+      "deCorSituacaoObra": null
+    }
+  ],
+  "hasImage": false,
+  "originalDays": 1229,
+  "addedDays": 0,
+  "stoppedDays": 0,
+  "currentDays": 1229,
+  "statusColor": "#ffd801",
+  "periodValidity": {
+    "initialDate": 1186617600000,
+    "finalDate": 1292803200000
+  },
+  "daysValidity": 1229,
+  "departmentSupervisor": "SEINFRA - SECRETARIA DE INFRAESTRUTURA  SEINFRA",
+  "departmentBenefited": "Transporte / Infraestrutura",
+  "contractor": "SEINFRA - SECRETARIA DE INFRAESTRUTURA  SEINFRA",
+  "completedDate": null,
+  "covenant": false,
+  "departmentAuditor": " - ",
+  "dePrograma": null,
+  "nmOrgaoSetor": null,
+  "deClassificacao": null,
+  "financialSummary": [],
+  "pePhysicalPercentage": 41.5,
+  "bituminousReleasedValue": null
+}
